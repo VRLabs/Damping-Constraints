@@ -37,7 +37,7 @@ There are constraints for position and rotation.
 
 Replace the Cube under "Container" with your own objects.
 
-The smaller the weight to the Target, the more motion will be dampened.
+The smaller the weight to the Target, the more motion will be damped.
 
 ## Downloads
 
