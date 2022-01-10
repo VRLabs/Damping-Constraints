@@ -44,7 +44,7 @@ You can grab the latest version of the Damping Constraints in [Releases](https:/
 
 ## License
 
-Damping Constraints is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Damping-Constraints/blob/dev/LICENSE).
+Damping Constraints is available as-is under MIT. For more information see [LICENSE](https://github.com/VRLabs/Damping-Constraints/blob/main/LICENSE).
 
 ## Contact us
 
