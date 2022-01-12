@@ -11,19 +11,6 @@
     <img src="https://img.shields.io/badge/Unity-2019.4-green.svg?style=flat-square">
   </a>
   <br />
-  <a href="https://github.com/VRLabs/Damping-Constraints/issues">
-    <img src="https://img.shields.io/github/issues-raw/VRLabs/Damping-Constraints.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Damping-Constraints/issues?q=is%3Aissue+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-closed-raw/VRLabs/Damping-Constraints.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Damping-Constraints/pull">
-    <img src="https://img.shields.io/github/issues-pr-raw/VRLabs/Damping-Constraints.svg?style=flat-square">
-  </a>
-  <a href="https://github.com/VRLabs/Damping-Constraints/pulls?q=is%3Apr+is%3Aclosed">
-    <img src="https://img.shields.io/github/issues-pr-closed-raw/VRLabs/Damping-Constraints.svg?style=flat-square">
-  </a>
-  <br />
 </div>
 
 ## How it works
