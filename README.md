@@ -58,7 +58,7 @@ Constraints:        1
 
 ## Hierarchy layout
 
-Position Damping Constraint
+Position Damping Constraint:
 
 ```html
 Position Damping Constraint
@@ -67,7 +67,7 @@ Position Damping Constraint
 |-Position Target
 ```
 
-Rotation Damping Constraint
+Rotation Damping Constraint:
 
 ```html
 Rotation Damping Constraint
