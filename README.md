@@ -78,8 +78,7 @@ Rotation Damping Constraint
 
 ## Contributors
 
-* [hfcRed](https://github.com/hfcRed)  
-* [Dreadrith](https://github.com/Dreadrith)
+* [lin](https://github.com/oofdesu)
 
 ## License
 
