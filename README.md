@@ -30,6 +30,8 @@ Constraints with adjustable damping effects
 
 ## Install guide
 
+https://github.com/VRLabs/Damping-Constraints/assets/76777936/98ad4d8a-1e70-4c49-bccc-69b6fc566bf4
+
 Position Damping Constraint
 
 * Drag & Drop the ``Position Damping Constraint`` prefab into the base of your Hierarchy.
