@@ -12,7 +12,7 @@
 
 Constraints with adjustable damping effects
 
-![DampingConstraint](https://github.com/VRLabs/Damping-Constraints/assets/76777936/98ef256a-9d4d-4537-bff1-1e006a0ca857)
+![DampingConstraint](https://github.com/VRLabs/Damping-Constraints/assets/76777936/5582d63d-691e-40f1-bb4f-4fb45f471dc7)
 
 
 ### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Damping-Constraints/releases/latest)
