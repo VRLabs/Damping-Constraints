@@ -14,8 +14,7 @@ Constraints with adjustable damping effects
 
 ![DampingConstraint](https://github.com/VRLabs/Damping-Constraints/assets/76777936/5582d63d-691e-40f1-bb4f-4fb45f471dc7)
 
-
-### ⬇️ [Download latest Unitypackage](https://github.com/VRLabs/Damping-Constraints/releases/latest)
+### ⬇️ [Download Latest Version](https://github.com/VRLabs/Damping-Constraints/releases/latest)
 
 <!-- 
 ### 📦 [Add to VRChat Creator Companion]() -->
