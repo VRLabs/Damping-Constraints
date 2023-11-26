@@ -36,14 +36,14 @@ Position Damping Constraint
 
 * Drag & Drop the ``Position Damping Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
-* Expand the prefab hierarchy and find ``Position Target``
+* Expand the prefab hierarchy and find ``Position Target``.
 * Move ``Position Target`` outside of ``Position Damping Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
 Rotation Damping Constraint
 
 * Drag & Drop the ``Rotation Damping Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
-* Expand the prefab hierarchy and find ``Rotation Target``
+* Expand the prefab hierarchy and find ``Rotation Target``.
 * Move ``Rotation Target`` outside of ``Rotation Damping Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
 ## How to use
