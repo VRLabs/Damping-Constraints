@@ -50,7 +50,7 @@ Rotation Damping Constraint
 
 * Place the objects you want to dampen inside ``Container``.
   * Alternatively you can constrain the objects to ``Container``.
-* Changing the weight of the second source in the constraint will change the strenghth of the damping effect.
+* Changing the weight of the second source in the constraint will change the strength of the damping effect.
 
 ## Performance stats
 
