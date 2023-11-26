@@ -25,8 +25,8 @@ Constraints with adjustable damping effects
 
 ## How it works
 
-* The constraint targets itself at full weight and another source at a weight lower than one
-* This causes a feedback loop where every frame the constraint moves a relative distance towards the target, creating a damping effect
+* The constraint targets itself at full weight and another source at a weight lower than one.
+* This causes a feedback loop where every frame the constraint moves a relative distance towards the target, creating a damping effect.
 
 ## Install guide
 
@@ -50,7 +50,7 @@ Rotation Damping Constraint
 
 * Place the objects you want to dampen inside ``Container``.
   * Alternatively you can constrain the objects to ``Container``.
-* Changing the weight of the second source in the constraint will change the strenght of the damping effect.
+* Changing the weight of the second source in the constraint will change the strenghth of the damping effect.
 
 ## Performance stats
 
