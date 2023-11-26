@@ -25,8 +25,8 @@ Constraints with adjustable damping effects
 
 ## How it works
 
-* The constraint targets itself at full weight and another source at a weight lower than one
-* This causes a feedback loop where every frame the constraint moves a relative distance towards the target, creating a damping effect
+* The constraint targets itself at full weight and another source at a weight lower than one.
+* This causes a feedback loop where every frame the constraint moves a relative distance towards the target, creating a damping effect.
 
 ## Install guide
 
@@ -36,21 +36,21 @@ Position Damping Constraint
 
 * Drag & Drop the ``Position Damping Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
-* Expand the prefab hierarchy and find ``Position Target``
+* Expand the prefab hierarchy and find ``Position Target``.
 * Move ``Position Target`` outside of ``Position Damping Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
 Rotation Damping Constraint
 
 * Drag & Drop the ``Rotation Damping Constraint`` prefab into the base of your Hierarchy.
 * Right click and unpack the prefab, then drag & drop it onto your avatar.
-* Expand the prefab hierarchy and find ``Rotation Target``
+* Expand the prefab hierarchy and find ``Rotation Target``.
 * Move ``Rotation Target`` outside of ``Rotation Damping Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
 ## How to use
 
 * Place the objects you want to dampen inside ``Container``.
   * Alternatively you can constrain the objects to ``Container``.
-* Changing the weight of the second source in the constraint will change the strenght of the damping effect.
+* Changing the weight of the second source in the constraint will change the strength of the damping effect.
 
 ## Performance stats
 
