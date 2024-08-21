@@ -46,6 +46,9 @@ Rotation Damping Constraint
 * Expand the prefab hierarchy and find ``Rotation Target``.
 * Move ``Rotation Target`` outside of ``Rotation Damping Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
+> [!NOTE]  
+> When building for Quest, you will have to remove unsupported components and shaders
+
 ## How to use
 
 * Place the objects you want to dampen inside ``Container``.
