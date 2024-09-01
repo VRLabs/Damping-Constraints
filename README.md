@@ -4,7 +4,8 @@
 
 [![Generic badge](https://img.shields.io/github/downloads/VRLabs/Damping-Constraints/total?label=Downloads)](https://github.com/VRLabs/Damping-Constraints/releases/latest)
 [![Generic badge](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/VRLabs/Damping-Constraints/blob/main/LICENSE)
-[![Generic badge](https://img.shields.io/badge/Unity-2019.4.31f1-lightblue.svg)](https://unity3d.com/unity/whats-new/2019.4.31)
+[![Generic badge](https://img.shields.io/badge/Quest-Compatible-green?logo=Meta)](https://img.shields.io/badge/Quest-Compatible-green?logo=Meta)
+[![Generic badge](https://img.shields.io/badge/Unity-2022.3.22f1-lightblue?logo=Unity)](https://unity.com/releases/editor/whats-new/2022.3.22)
 [![Generic badge](https://img.shields.io/badge/SDK-AvatarSDK3-lightblue.svg)](https://vrchat.com/home/download)
 
 [![Generic badge](https://img.shields.io/discord/706913824607043605?color=%237289da&label=DISCORD&logo=Discord&style=for-the-badge)](https://discord.vrlabs.dev/)
@@ -15,7 +16,6 @@ Constraints with adjustable damping effects
 ![DampingConstraint](https://github.com/VRLabs/Damping-Constraints/assets/76777936/5582d63d-691e-40f1-bb4f-4fb45f471dc7)
 
 ### ⬇️ [Download Latest Version](https://github.com/VRLabs/Damping-Constraints/releases/latest)
-
 
 ### 📦 [Add to VRChat Creator Companion](https://vrlabs.dev/packages?package=dev.vrlabs.damping-constraints)
 
@@ -46,6 +46,9 @@ Rotation Damping Constraint
 * Expand the prefab hierarchy and find ``Rotation Target``.
 * Move ``Rotation Target`` outside of ``Rotation Damping Constraint`` and place it anywhere in your avatars hierarchy as needed.
 
+> [!NOTE]  
+> When building for Quest, you will have to remove unsupported components and shaders
+
 ## How to use
 
 * Place the objects you want to dampen inside ``Container``.
@@ -56,6 +59,7 @@ Rotation Damping Constraint
 
 ```c++
 Constraints:        1
+Constraint Depth:   1
 ```
 
 ## Hierarchy layout
@@ -100,4 +104,3 @@ Damping Constraints is available as-is under MIT. For more information see [LICE
 [<img src="https://github.com/VRLabs/Resources/raw/main/Icons/Twitter.png" width="50" height="50">](https://twitter.com/vrlabsdev "VRLabs")
 
 </div>
-
